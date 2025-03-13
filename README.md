@@ -1,6 +1,6 @@
 ## Implementation Overview
 
-This report applies **Principal Component Analysis (PCA)** to reduce the dimensionality of the **star classification dataset**. PCA transforms the original dataset into a new space, simplifying the data and improving computational efficiency.
+The aim of this project is to explore the application of **Principal Component Analysis (PCA)** for dimensionality reduction. The **star classification dataset** is chosen for analysis. PCA restructures the original dataset into a new space, making the data more manageable and enhancing computational efficiency.
 
 ### Key Findings:
 - The first two **principal components** capture the majority of the variance.
